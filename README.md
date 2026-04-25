@@ -1,0 +1,2 @@
+# grand
+Compute an estimate of the grand mean/intercept and differences from the grand Use grand With STATA 19
