@@ -1,6 +1,8 @@
 # grand
 Compute an estimate of the grand mean/intercept and differences from the grand Use grand With STATA 19
 
+https://www.youtube.com/watch?v=N76gpmMMeaw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
